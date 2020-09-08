@@ -2,7 +2,7 @@
 [instagram]: https://instagram.com/suryansh098
 [linkedin]: https://linkedin.com/in/suryansh098
 [facebook]: https://www.facebook.com/suryansh.yadav.731
-[github]: https://github.com/suryansh098
+[github]: https://suryansh098.pythonanywhere.com
 
 ### Hi there, I'm Suryansh 🙌
 
