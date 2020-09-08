@@ -1,6 +1,7 @@
 [twitter]: https://twitter.com/suryansh098
 [instagram]: https://instagram.com/suryansh098
 [linkedin]: https://linkedin.com/in/suryansh098
+[facebook]: https://www.facebook.com/suryansh.yadav.731
 [github]: https://github.com/suryansh098
 
 ### Hi there, I'm Suryansh 🙌
@@ -19,8 +20,9 @@
 ### Connect with me:
 
 [<img align="left" alt="suryansh098 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="suryansh098 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suryansh098 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="suryansh.yadav.731 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
 ---
