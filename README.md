@@ -1,4 +1,4 @@
-### I'm Suryansh 🙌
+### Hi there, I'm Suryansh 🙌
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/suryansh098?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsuryansh098&screen_name=suryansh098)
 
@@ -35,7 +35,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 
 [twitter]: https://twitter.com/suryansh098
