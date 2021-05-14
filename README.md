@@ -8,11 +8,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/suryansh098?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsuryansh098&screen_name=suryansh098)
 
-## I'm a Student and a Developer!
+## I'm a Computer Science Student!
 
-- 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 Currently working on improving my coding skills
+- 🌱 Currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch animes
 
 ---
