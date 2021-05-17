@@ -8,7 +8,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/suryansh098?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsuryansh098&screen_name=suryansh098)
 
-## I'm a Computer Science Student!
+### I'm a Computer Science Student!
 
 - 🔭 Currently working on improving my coding skills
 - 🌱 Currently learning everything 🤣
@@ -19,10 +19,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="suryansh098 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="suryansh098 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suryansh098 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="suryansh.yadav.731 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="suryansh098 | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="suryansh098 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="suryansh098 | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="suryansh.yadav.731 | Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />][facebook]
 <br />
 
 ---
