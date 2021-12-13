@@ -17,16 +17,6 @@
 
 ---
 
-### Connect with me:
-
-[<img align="left" alt="suryansh098 | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="suryansh098 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="suryansh098 | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
-[<img align="left" alt="suryansh.yadav.731 | Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />][facebook]
-<br />
-
----
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
